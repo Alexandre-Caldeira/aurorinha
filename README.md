@@ -10,6 +10,6 @@ da Universidade Federal de Viçosa (UFV).
 + ROS/Gazebo
 + FlightGear
 + Webots
-
++ outro simulador 
 <!-- ![](https://github.com/NERO-UFV/AuRoRA/blob/master/logo.png) -->
 
